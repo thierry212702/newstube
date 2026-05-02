@@ -1,0 +1,10 @@
+PORT=5001
+
+MONGODB_URI=mongodb+srv://newstube:th2008@cluster0.fwjs1qp.mongodb.net/newstube_db?retryWrites=true&w=majority&appName=Cluster0
+
+JWT_SECRET=c41f240e8e753c119858c8a9314561eb1604c2ccaf81a56b3857642104d0f914
+
+CLOUDFLARE_ACCOUNT_ID=fdefecb2b677b3af232b594a689a4da0
+
+CLOUDFLARE_API_TOKEN=
+NODE_ENV=development
